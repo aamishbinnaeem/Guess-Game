@@ -44,7 +44,7 @@ while(again == 'y' || again == 'Y'){  // logical operator 'OR' to run, either if
 	cout << endl;
 	
 	cout << "Sad to see you go :( \n";
-	cout << "Goodbye!"; // leave a farewell message when user promts 'No' to stop playing.
+	cout << "Goodbye!"; // leaves a farewell message when user promts 'No' to stop playing.
 	
 	return 0;
 }
