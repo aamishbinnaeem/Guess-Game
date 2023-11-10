@@ -1,2 +1,1 @@
-# Guess-Game
-A number guessing game in C++.
+The C++ Number Guessing Game is a simple console-based application designed for users to guess a randomly generated number within a specified range. The program provides feedback on each guess, indicating whether the guess is correct, too high, or too low. With limited attempts, users can challenge themselves to improve their guessing skills. The project is open for contributions, and the README includes instructions for installation, usage, and contribution. Feel free to clone the repository, play the game, and enhance it with your own ideas!
